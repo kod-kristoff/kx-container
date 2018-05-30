@@ -12,4 +12,4 @@ testexe = executable(
   dependencies        : catch_dep
 )
 
-test('ecalculator test', testexe)
+test('kx-container-test', testexe)
